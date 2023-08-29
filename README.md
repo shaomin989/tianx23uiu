@@ -13,3 +13,4 @@ zaiqx
 zenme
 zhishu
 zuofan
+elepay
