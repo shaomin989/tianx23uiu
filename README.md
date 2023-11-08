@@ -2,7 +2,7 @@
 xuexi,rte3
 aazaazaxza,rtd
 your hu houm
-tingy
+tingy,fgtr
 tiantian,erfd
 dangran,fgfgf
 meiwent,rtfd
